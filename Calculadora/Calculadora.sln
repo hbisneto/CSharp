@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora", "Calculadora\Calculadora.csproj", "{726750B3-6EE2-45D5-A124-BA1B02E5E696}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{726750B3-6EE2-45D5-A124-BA1B02E5E696}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{726750B3-6EE2-45D5-A124-BA1B02E5E696}.Debug|anycpu.Build.0 = Debug|anycpu
+		{726750B3-6EE2-45D5-A124-BA1B02E5E696}.Release|anycpu.ActiveCfg = Release|anycpu
+		{726750B3-6EE2-45D5-A124-BA1B02E5E696}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
