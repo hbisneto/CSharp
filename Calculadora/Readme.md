@@ -136,4 +136,15 @@ A Raiz Quadrada de 9 é 3.0
 ```
 #
 
+##Log de Atualização:
+```
+>> Versão 1.0: 
+- Versão de lançamento
+```
+```
+>> Versão 1.1:
+- Remoção da variável "Calc"
+- Implementação da classe "Copyright"
+```
+
 Copyright © 2021 Heitor Bisneto. All rights reserved.
