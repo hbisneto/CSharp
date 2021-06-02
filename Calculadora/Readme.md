@@ -136,7 +136,7 @@ A Raiz Quadrada de 9 é 3.0
 ```
 #
 
-##Log de Atualização:
+## Log de Atualização:
 ```
 >> Versão 1.0: 
 - Versão de lançamento
