@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Signo", "Signo\Signo.csproj", "{385C1698-7A96-416A-B177-6EC312A0C196}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{385C1698-7A96-416A-B177-6EC312A0C196}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{385C1698-7A96-416A-B177-6EC312A0C196}.Debug|anycpu.Build.0 = Debug|anycpu
+		{385C1698-7A96-416A-B177-6EC312A0C196}.Release|anycpu.ActiveCfg = Release|anycpu
+		{385C1698-7A96-416A-B177-6EC312A0C196}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
