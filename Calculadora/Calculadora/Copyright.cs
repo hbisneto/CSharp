@@ -6,7 +6,7 @@ namespace Calculadora
         public void Print()
         {
             string SoftwareName = "Calculadora C# Console";
-            string Version = "1.1";
+            string Version = "1.2";
             string CopyrightName = "Heitor Bisneto.";
             DateTime AnoAtual = DateTime.Today;
 
